@@ -7,6 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=700&height=60&lines=Programming+Languages%3A)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width="800px" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img width="200px" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
