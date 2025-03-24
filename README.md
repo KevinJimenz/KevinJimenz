@@ -30,7 +30,7 @@
 </div>
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=84&height=40&lines=Tools:" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=84&height=40&lines=Herramientas:" />
   </a>
   <a href="https://skillicons.dev">
     <img width="90px" src="https://skillicons.dev/icons?i=docker,postman" />
