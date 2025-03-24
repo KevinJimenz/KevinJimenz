@@ -14,7 +14,7 @@
 </div>
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=145&height=40&lines=DataBases:" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=141&height=40&lines=DataBases:" />
   </a>
   <a href="https://skillicons.dev">
     <img width="100px" src="https://skillicons.dev/icons?i=mysql,mongodb" />
@@ -22,7 +22,7 @@
 </div>
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=165&height=40&lines=FrameWorks:" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=158&height=40&lines=FrameWorks:" />
   </a>
   <a href="https://skillicons.dev">
     <img width="150px" src="https://skillicons.dev/icons?i=react,laravel,bootstrap" />
