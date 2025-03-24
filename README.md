@@ -28,4 +28,11 @@
     <img width="150px" src="https://skillicons.dev/icons?i=react,laravel,bootstrap" />
   </a>
 </div>
-
+<div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=151&height=40&lines=Tools:" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img width="150px" src="https://skillicons.dev/icons?i=docker,postman" />
+  </a>
+</div>
