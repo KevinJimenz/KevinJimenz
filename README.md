@@ -17,7 +17,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=200&height=40&lines=DataBases:" />
   </a>
   <a href="https://skillicons.dev">
-    <img width="200px" src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img width="100px" src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </div>
 <div>
@@ -25,7 +25,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=300&height=40&lines=FrameWorks:" />
   </a>
   <a href="https://skillicons.dev">
-    <img width="200px" src="https://skillicons.dev/icons?i=react,laravel,bootstrap" />
+    <img width="150px" src="https://skillicons.dev/icons?i=react,laravel,bootstrap" />
   </a>
 </div>
 
