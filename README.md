@@ -6,7 +6,7 @@
 
 <div >
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=250&height=40&lines=Programming+Languages:" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=450&height=40&lines=Programming+Languages:" />
   </a>
   <a href="https://skillicons.dev">
     <img width="200px" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
