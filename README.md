@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&repeat=false&width=435&lines=%22La+%C3%BAnica+forma+de+ir+r%C3%A1pido+es+yendo+bien.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&center=true&multiline=true&repeat=false&width=900&lines=%22La+%C3%BAnica+forma+de+ir+r%C3%A1pido+es+yendo+bien.%22)](https://git.io/typing-svg)
