@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=1500&color=2367FF&multiline=true&repeat=false&lines=StacK+Tecnol%C3%B3gico)](https://git.io/typing-svg)
 
 <div style="display: flex; align-items: center;">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" style="text-decoration: none;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1500&color=FFFCFC&multiline=true&repeat=false&width=300&height=40&lines=Programming+Languages:" />
   </a>
   <a href="https://skillicons.dev" style="text-decoration: none;">
